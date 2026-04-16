@@ -49,6 +49,36 @@ Expected Output:
 *** Results: 0% dropped (6/6 received)
 2]Flow Table Entries (in POX terminal)
 
+## 📸 Output Screenshots
+
+### 🔹 Mininet Topology
+![Mininet](mininet.jpeg)
+
+---
+
+### 🔹 Ping All Hosts
+![PingAll](pingall.jpeg)
+
+---
+
+### 🔹 Iperf Result (Bandwidth Test)
+![Iperf](iperf.jpeg)
+
+---
+
+### 🔹 Flow Table - Switch 1
+![Switch1](switch1.jpeg)
+
+---
+
+### 🔹 Flow Table - Switch 2
+![Switch2](switch2.jpeg)
+
+---
+
+### 🔹 Flow Table - Switch 3
+![Switch3](switch3.jpeg)
+
 Example:
 
 ===== FLOW TABLE for Switch 1 =====
