@@ -62,7 +62,7 @@ Expected Output:
 ---
 
 ### 🔹 Iperf Result (Bandwidth Test)
-![Iperf](iperf.jpeg)
+![Iperf](ipref.jpeg)
 
 ---
 
@@ -77,7 +77,7 @@ Expected Output:
 ---
 
 ### 🔹 Flow Table - Switch 3
-![Switch3](switch3.jpeg)
+![Switch3]( switch3.jpeg)
 
 Example:
 
